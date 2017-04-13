@@ -15,7 +15,7 @@ RequiredSymbol.propTypes = {
 };
 
 RequiredSymbol.defaultProps = {
-    symbol: ' *'
+    symbol: ''
 };
 
 export default RequiredSymbol;
